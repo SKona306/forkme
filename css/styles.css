@@ -1,0 +1,17 @@
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+.best {
+    width: 75%;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bolder;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
